@@ -1,14 +1,5 @@
 # PLANIT_SQUARE 프론트엔드 개발 과제
 
-## 파일구조
-
-├── index.html  
-├── index.js   
-├── App.js (간단해짐)  
-├── style.css  
-└── components/  
-    └── TodoList.js (모든 기능 통합)  
-
 
 ## 필수 기능
 
